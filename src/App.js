@@ -11,7 +11,7 @@ class App extends Component {
 
   render () {
     return (
-      <Router basename='https://franzspiess.github.io/hosco-music'>
+      <Router basename={process.env.PUBLIC_URL}>
         <Grid container alignContent="center" justify="center" direction="column" style={{ height: '100%', width: "100%" }}>
           <Grid item xs={12} md={8} lg={6} alignItems="center" justify="center" style={{ height: '100%', width: "100%" }} >
             <Route exact path="/" component={Search} />
