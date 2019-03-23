@@ -1,13 +1,13 @@
 {
   "main.css": "/music-player/static/css/main.622f5d4e.chunk.css",
-  "main.js": "/music-player/static/js/main.e23a0db5.chunk.js",
-  "main.js.map": "/music-player/static/js/main.e23a0db5.chunk.js.map",
+  "main.js": "/music-player/static/js/main.e1613518.chunk.js",
+  "main.js.map": "/music-player/static/js/main.e1613518.chunk.js.map",
   "runtime~main.js": "/music-player/static/js/runtime~main.fdd2de90.js",
   "runtime~main.js.map": "/music-player/static/js/runtime~main.fdd2de90.js.map",
   "static/js/2.87c04a7c.chunk.js": "/music-player/static/js/2.87c04a7c.chunk.js",
   "static/js/2.87c04a7c.chunk.js.map": "/music-player/static/js/2.87c04a7c.chunk.js.map",
   "index.html": "/music-player/index.html",
-  "precache-manifest.e5eea27dba5fef074afc9a916ee5b9c3.js": "/music-player/precache-manifest.e5eea27dba5fef074afc9a916ee5b9c3.js",
+  "precache-manifest.fb67de3373ec0878c6079012a275c6d0.js": "/music-player/precache-manifest.fb67de3373ec0878c6079012a275c6d0.js",
   "service-worker.js": "/music-player/service-worker.js",
   "static/css/main.622f5d4e.chunk.css.map": "/music-player/static/css/main.622f5d4e.chunk.css.map"
 }
