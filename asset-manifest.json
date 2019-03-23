@@ -1,13 +1,13 @@
 {
-  "main.css": "/hosco-music/static/css/main.622f5d4e.chunk.css",
-  "main.js": "/hosco-music/static/js/main.ae5cd136.chunk.js",
-  "main.js.map": "/hosco-music/static/js/main.ae5cd136.chunk.js.map",
-  "runtime~main.js": "/hosco-music/static/js/runtime~main.c582b492.js",
-  "runtime~main.js.map": "/hosco-music/static/js/runtime~main.c582b492.js.map",
-  "static/js/2.705585a7.chunk.js": "/hosco-music/static/js/2.705585a7.chunk.js",
-  "static/js/2.705585a7.chunk.js.map": "/hosco-music/static/js/2.705585a7.chunk.js.map",
-  "index.html": "/hosco-music/index.html",
-  "precache-manifest.34718a833de7cd2ca8b7377b69bcccce.js": "/hosco-music/precache-manifest.34718a833de7cd2ca8b7377b69bcccce.js",
-  "service-worker.js": "/hosco-music/service-worker.js",
-  "static/css/main.622f5d4e.chunk.css.map": "/hosco-music/static/css/main.622f5d4e.chunk.css.map"
+  "main.css": "/music-player/static/css/main.622f5d4e.chunk.css",
+  "main.js": "/music-player/static/js/main.7e700544.chunk.js",
+  "main.js.map": "/music-player/static/js/main.7e700544.chunk.js.map",
+  "runtime~main.js": "/music-player/static/js/runtime~main.fdd2de90.js",
+  "runtime~main.js.map": "/music-player/static/js/runtime~main.fdd2de90.js.map",
+  "static/js/2.87c04a7c.chunk.js": "/music-player/static/js/2.87c04a7c.chunk.js",
+  "static/js/2.87c04a7c.chunk.js.map": "/music-player/static/js/2.87c04a7c.chunk.js.map",
+  "index.html": "/music-player/index.html",
+  "precache-manifest.190f9b3a7626c14595d5e0fad06e6a5e.js": "/music-player/precache-manifest.190f9b3a7626c14595d5e0fad06e6a5e.js",
+  "service-worker.js": "/music-player/service-worker.js",
+  "static/css/main.622f5d4e.chunk.css.map": "/music-player/static/css/main.622f5d4e.chunk.css.map"
 }
