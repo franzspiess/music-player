@@ -22,7 +22,7 @@ class Search extends Component {
           width:'100%'
         }}
       >
-        <img src="https://cdn-images-1.medium.com/max/900/1*h0OlLGRDqILTSGgjxUH_5Q.jpeg"></img>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ITunes_logo.svg/1200px-ITunes_logo.svg.png" style={{maxWidth:'40%'}}></img>
         <form style={{ width: "70%", display:"flex", flexDirection:"column", justifyContent:"center", alignItems:"center"}}>
           <h3>SEARCH FOR MUSIC</h3>
 
