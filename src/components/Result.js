@@ -56,12 +56,11 @@ class Result extends Component {
   }
 }
 
-const mapStateToProps = state => {
-  console.log(state);
-  return(
-   {result: state.result}
-  )
-}
+const mapStateToProps = state => ({
+
+  result: state.result
+
+})
 
 export default connect(
   mapStateToProps,

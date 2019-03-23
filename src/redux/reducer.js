@@ -9,7 +9,6 @@ const initState = {
 
 const reducer = (state = initState, action) => {
 
-  console.log(action)
 
   if (!action.data) return state;
 

@@ -58,7 +58,6 @@ class Song extends Component {
   }
 
   render () {
-    console.log(this.props, 'AAAAAA', this.state)
     const { result, history } = this.props;
     let { audio } = this.state;
     (audio && this.state.play) && audio.play();
